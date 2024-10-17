@@ -3,7 +3,7 @@ Version:	59993
 Release:	2
 Summary:	Draw arrows over math letters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/letterswitharrows
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/letterswitharrows
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letterswitharrows.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letterswitharrows.doc.r%{version}.tar.xz
