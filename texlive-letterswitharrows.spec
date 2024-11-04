@@ -1,6 +1,6 @@
 Name:		texlive-letterswitharrows
-Version:	59993
-Release:	2
+Version:	72723
+Release:	1
 Summary:	Draw arrows over math letters
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/letterswitharrows
